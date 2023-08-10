@@ -28,4 +28,4 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
     
 ## Usage:
 
-Please navigate directly to [website](https://zgrinacoff.github.io/D3-challenge/).
+Please navigate directly to [website](https://90PlusWorks.github.io/D3-Learn/).
